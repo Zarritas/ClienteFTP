@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="FTPClienteExample ASCII" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="ejemplos.FTPClienteExample" />
+    <module name="ClienteFTP" />
+    <option name="PROGRAM_PARAMETERS" value="ftp.nic.funet.fi anonymous jes@lor.lim /.m/ftp/pub/languages/java/old/Linux/README README.asc" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
